@@ -4,7 +4,7 @@
 <img src="https://github.com/bennettChen/IoT_Demo/blob/master/iot-demo.gif">
 
 
-<br><br>
+
 說明：<br>
 這是研發中的無線AP的實驗板。<br>
 AP可收發藍芽裝置的訊號以控制與AP相連的IoT裝置。<br>
