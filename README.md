@@ -1,8 +1,8 @@
 # IoT_Demo
 <br>
 
-|-----------------------|&emsp;&emsp;|-----------------------|&emsp;&emsp;|----------------|<br>
-| Alexa Server          |	| AWS Lambda            |	| AWS IoT        |<br>
+|-----------------------|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-----------------------|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|----------------|<br>
+| Alexa Server          |&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;| AWS Lambda            |&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;| AWS IoT        |<br>
 | (Amazon cloud service)|<------->| (Amazon cloud service)|<------>| (cloud service)|<br>
 |-----------------------|         |-----------------------|        |----------------|<br>
        ^                                                                ^<br>
