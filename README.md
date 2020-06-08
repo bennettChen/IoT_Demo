@@ -1,6 +1,9 @@
 # IoT_Demo
 <br>
 
+<img src="https://github.com/bennettChen/IoT_Demo/blob/master/iot-demo.gif" alt="替代文字一" title="範例圖片一">
+
+
 |-----------------------|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-----------------------|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|----------------|<br>
 | Alexa Server          |&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;| AWS Lambda            |&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;| AWS IoT        |<br>
 | (Amazon cloud service)|<------->| (Amazon cloud service)|<------>| (cloud service)|<br>
