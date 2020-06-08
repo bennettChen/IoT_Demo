@@ -1,25 +1,9 @@
 # IoT_Demo
 <br>
 
-<img src="https://github.com/bennettChen/IoT_Demo/blob/master/iot-demo.gif" alt="替代文字一" title="範例圖片一">
+<img src="https://github.com/bennettChen/IoT_Demo/blob/master/iot-demo.gif">
 
 
-|-----------------------|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-----------------------|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|----------------|<br>
-| Alexa Server          |&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;| AWS Lambda            |&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;| AWS IoT        |<br>
-| (Amazon cloud service)|<------->| (Amazon cloud service)|<------>| (cloud service)|<br>
-|-----------------------|         |-----------------------|        |----------------|<br>
-       ^                                                                ^<br>
-       |                                                                |<br>
-       |                                                                |<br>
-       v                                                                v<br>
-|----------------|                                 |--------------------------------|<br>
-| Alexa Client   |                                 |             | AWS IoT client SW|<br>             
-|----------------|                                 |             |------------------|       |-------------|<br>
-| Raspberry Pi 3 |                                 |             |   BLE cmd Daemon |<----->|Thunderboard™|<br>
-|----------------|                                 |             |------------------|       |(IoT device) |<br>
-                                                   |                                |       |-------------|<br>         
-						   |  Lab AP in development         |<br>
-						   |--------------------------------|<br>
 <br><br>
 說明：<br>
 這是研發中的無線AP的實驗板。<br>
