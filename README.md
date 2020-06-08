@@ -2,7 +2,7 @@
 <br>
 
 |-----------------------|	|-----------------------|	|----------------|<br>
-| Alexa Server          |         | AWS Lambda            |        | AWS IoT        |<br>
+| Alexa Server          |	| AWS Lambda            |	| AWS IoT        |<br>
 | (Amazon cloud service)|<------->| (Amazon cloud service)|<------>| (cloud service)|<br>
 |-----------------------|         |-----------------------|        |----------------|<br>
        ^                                                                ^<br>
